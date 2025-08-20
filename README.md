@@ -70,14 +70,17 @@ The notebook follows a structured approach:
 
 ## Sample Visualizations
 
-**1. Distribution of GPA**
+### 1. Distribution of GPA
+
 ![GPA Distribution](outputs/figures/Distribution%20of%20GPA.png)
 
-**2. Correlation Heatmap**
+### 2. Correlation Heatmap
+
 ![Correlation Heatmap](outputs/figures/Correlation%20Heatmap%20of%20Numerical%20Features.png)
 
-**3. GPA vs Study Hours and Attendance Rate**
-![GPA vs Study Hours and Attendance Rate](outputs/figures/GPA by Attendance Rate and Study Hours.png)
+### 3. GPA vs Study Hours and Attendance Rate
+
+![GPA vs Study Hours and Attendance Rate](outputs/figures/GPA%20by%20Attendance%20Rate%20and%20Study%20Hours.png)
 
 ## Requirements
 
