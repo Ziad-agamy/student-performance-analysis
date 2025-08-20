@@ -71,13 +71,13 @@ The notebook follows a structured approach:
 ## Sample Visualizations
 
 **1. Distribution of GPA**
-![GPA Distribution]("C:\Files\Projects\EDA\outputs\figures\Distribution of GPA.png")
+![GPA Distribution](outputs/figures/Distribution%20of%20GPA.png)
 
 **2. Correlation Heatmap**
-![Correlation Heatmap]("C:\Files\Projects\EDA\outputs\figures\Correlation Heatmap of Numerical Features.png")
+![Correlation Heatmap](outputs/figures/Correlation%20Heatmap%20of%20Numerical%20Features.png)
 
 **3. GPA vs Study Hours and Attendance Rate**
-![GPA vs Study Hours and Attendance Rate]("C:\Files\Projects\EDA\outputs\figures\GPA by Attendance Rate and Study Hours.png")
+![GPA vs Study Hours and Attendance Rate](outputs/figures/GPA by Attendance Rate and Study Hours.png)
 
 ## Requirements
 
