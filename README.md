@@ -8,9 +8,8 @@ This repository contains a Jupyter Notebook (`students_performance_analysis.ipyn
 - [Dataset](#dataset)
 - [Analysis Steps](#analysis-steps)
 - [Key Findings](#key-findings)
+- [Sample Visualization](#sample-visualizations)
 - [Requirements](#requirements)
-- [How to Run the Notebook](#how-to-run-the-notebook)
-- [Conclusion](#conclusion)
 - [License](#license)
 
 ## Project Overview
